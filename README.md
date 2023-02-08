@@ -3,3 +3,4 @@
 
 Welcome to my portfolio! Feel free to check out my cool projects. I am a PhD Data Science student and a storyteller. I tell stories using data visualizations rather than writing stories. Stay tuned!
  
+## Data Viz 1
